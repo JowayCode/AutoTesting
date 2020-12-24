@@ -1,2 +1,2 @@
 # AutoTesting
-USE TESTING
+USE TESTING CODE
